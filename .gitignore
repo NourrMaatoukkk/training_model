@@ -1,0 +1,31 @@
+# Python virtual environments
+.venv/
+.venv311/
+env/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Data and model artifacts (optional: keep models if you need them in repo)
+resnet18_model.pth
+archive.zip
